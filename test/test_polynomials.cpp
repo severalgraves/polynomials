@@ -6,6 +6,7 @@ using namespace std;
 
 class MonomTesting : public ::testing::Test
 {
+
 protected:
     Monom* m;
 public:
